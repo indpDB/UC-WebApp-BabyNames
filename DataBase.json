@@ -1,11 +1,11 @@
 [
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/00.png",
-		"URL": ""
+		"URL": "https://www.babynamesdirect.com/baby-names/telugu/girl/a"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/01.png",
-		"URL": ""
+		"URL": "https://www.babynamesdirect.com/baby-names/telugu/girl/a"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/a.png",
@@ -214,9 +214,5 @@
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/z1.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/telugu/boy/z"
-	},
-	{
-		"MenuIcon": "",
-		"URL": ""
 	}
 ]
