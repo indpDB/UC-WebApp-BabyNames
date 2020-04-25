@@ -1,10 +1,10 @@
 [
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseBoyNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Boy.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/assamese/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/assamese/girl/a"
 	},
 	{
@@ -12,7 +12,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/bengali/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/bengali/girl/a"
 	},
 	{
@@ -20,7 +20,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/gujarati/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/gujarati/girl/a"
 	},
 	{
@@ -28,7 +28,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/hindu/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/hindu/girl/a"
 	},
 	{
@@ -36,7 +36,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/kannada/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/kannada/girl/a"
 	},
 	{
@@ -44,7 +44,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/malayalam/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/malayalam/girl/a"
 	},
 	{
@@ -52,7 +52,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/marathi/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/marathi/girl/a"
 	},
 	{
@@ -60,7 +60,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/oriya/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/oriya/girl/a"
 	},
 	{
@@ -68,7 +68,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/sanskrit/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/sanskrit/girl/a"
 	},
 	{
@@ -76,7 +76,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/sikh/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/sikh/girl/a"
 	},
 	{
@@ -84,7 +84,7 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/sindhi/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/sindhi/girl/a"
 	},
 	{
@@ -92,11 +92,179 @@
 		"URL": "https://www.babynamesdirect.com/baby-names/tamil/boy/a"
 	},
 	{
-		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/AssameseGirlNames.png",
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/tamil/girl/a"
 	},
 	{
 		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Telugu_Boy.png",
 		"URL": "https://www.babynamesdirect.com/baby-names/telugu/boy/a"
+	},
+	{
+		"MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
+		"URL": "https://www.babynamesdirect.com/baby-names/telugu/girl/a"
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
+	},
+	{
+		"MenuIcon": "",
+		"URL": ""
 	}
 ]
